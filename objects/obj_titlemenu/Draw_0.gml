@@ -1,4 +1,10 @@
+
 draw_set_font(global.font_main);
+
+draw_set_halign(fa_left);
+draw_set_valign(fa_center);
+draw_text(270, 100, "The Adventures of Jim the Wizard");
+
 
 var _new_w = 0;
 for (var i = 0; i < op_length; i++)
