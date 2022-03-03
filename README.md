@@ -6,7 +6,7 @@
  https://youtu.be/rtZw7uQkOQo
  
  Playing Instructions:
- To play, open the installer and download the file to play, then manuever around the game menu using arrow keys and use the space key to select what you want to do. Have fun!
+ To play, open the Adventers of Jim installer and download the file to play, then manuever around the game menu using arrow keys and use the space key to select what you want to do. Have fun!
  
  Credit:
  Shoutout to Matthew Phan for drawing Apple Wizard, Justin Tan for drawing Green Goblins, and Tymon Yu for providing sound effects
